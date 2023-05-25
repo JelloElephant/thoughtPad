@@ -22,5 +22,5 @@ To leave reminders for tasks, events, and lists that you'd need while not having
 
 
 ## Questions
-For more projects or for qny questions/concerns about this project contact [JelloElephant](https://github.com/JelloElephant) at [eik995@hotmail.com](eik995@hotmail.com)
+For more projects or for any questions/concerns about this project contact [JelloElephant](https://github.com/JelloElephant) at [eik995@hotmail.com](eik995@hotmail.com)
 
